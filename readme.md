@@ -1,7 +1,6 @@
-# H2 Springboot 的Demo
+# Springboot 集成 H2 , JPA 的Demo
 
-H2内存数据库的应用
-
+H2内存数据库的应用，jpa的使用
 
 # 问题
 
@@ -10,3 +9,5 @@ H2内存数据库的应用
     
     2.无法访问h2页面，需要在properties中开启h2控制台
     spring.h2.console.enabled=true
+
+    3.当数据源被指定了，h2将不治被使用了
