@@ -1,6 +1,6 @@
 # Springboot 集成 H2 , JPA 的Demo
 
-H2内存数据库的应用，jpa的使用
+H2内存数据库的应用，jpa的使用 test
 
 # JPA简介
 
